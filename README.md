@@ -8,7 +8,7 @@
 
 <h2 align="left" >Me chamo: 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Press+Start+2P%22&size=22&pause=10000&color=1E3FFF&vCenter=true&repeat=false&width=380&lines=Iasmyn+Lopes)](https://git.io/typing-svg)</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Press+Start+2P%22&size=22&pause=10000&color=1E3FFF&background=FF871700&vCenter=true&repeat=false&random=true&width=380&lines=Iasmyn+Lopes)](https://git.io/typing-svg)</h2>
 
 <h3 align="left">Sobre mim:</h3>
 
