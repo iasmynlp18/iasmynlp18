@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- Iniciante na programação<br>- Disposta a aprender coisas novas<br>- Faço faculdade Superior em Análise e Desenvolvimento de Sistemas<br>- Gosto de fotografia, paisagens, tech, etc...</p> 
+<h3 align="left">- Iniciante na programação<br>- Disposta a aprender coisas novas<br>- Faço faculdade Superior em Análise e Desenvolvimento de Sistemas<br>- Gosto de fotografia, paisagens, tech, etc...</h3> 
 <div align="center">
   <img height="150" width="150" src="https://github.com/user-attachments/assets/d3d6e161-14b6-4e08-b7e0-f9714151d74df" />
   <img height="160" width="160" src="https://github.com/user-attachments/assets/40513d68-0262-493d-a352-f43b6f4dd4cb" />
