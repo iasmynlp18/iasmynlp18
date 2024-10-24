@@ -6,15 +6,13 @@
 
 ###
 
-<h2 align="left" >Me chamo 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Press+Start+2P%22&size=22&pause=10000&color=1E3FFF&background=FF871700&vCenter=true&repeat=false&random=true&width=380&lines=Iasmyn+Lopes)](https://git.io/typing-svg)</h2>
+<h2 align="left">Me chamo Iasmyn Lopes</h2>
 
 <h3 align="left">Sobre mim:</h3>
 
 ###
 
-<h3 align="left">- Iniciante na programação<br>- Disposta a aprender coisas novas<br>- Faço faculdade Superior em Análise e Desenvolvimento de Sistemas<br>- Gosto de fotografia, paisagens, tech, etc...</h3> 
+<p align="left">- Iniciante na programação<br>- Disposta a aprender coisas novas<br>- Faço faculdade Superior em Análise e Desenvolvimento de Sistemas<br>- Gosto de fotografia, paisagens, tech, etc...</p> 
 <div align="center">
   <img height="150" width="150" src="https://github.com/user-attachments/assets/d3d6e161-14b6-4e08-b7e0-f9714151d74df" />
   <img height="160" width="160" src="https://github.com/user-attachments/assets/40513d68-0262-493d-a352-f43b6f4dd4cb" />
