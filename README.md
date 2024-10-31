@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Olá👋, me chamo Iasmyn Lopes</h2>
+<h2 align="left">Olá👋... Me chamo Iasmyn Lopes</h2>
 
 <h3 align="left">Sobre mim:</h3>
 
