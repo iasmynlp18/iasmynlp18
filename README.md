@@ -33,7 +33,7 @@
 <div>
 <h2>Minha atividade: </h2>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iasmynlp18&theme=blue-green&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200align="center")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iasmynlp18&theme=maroongold&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200align="center")](https://git.io/streak-stats)
 
 </div>
 
